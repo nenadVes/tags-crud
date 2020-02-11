@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 62 (101010) - https://sketch.com -->
+    <title>0D9A01DD-0E34-4BBC-AAC6-00DD6F1E1473@1x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M67.6113802,11.8408591 L63.1609793,7.44079226 C62.9463402,7.22858181 62.9463402,6.88453509 63.1609793,6.67234728 L63.6800474,6.15915256 C63.8943201,5.94730436 64.2415944,5.94689683 64.4563709,6.15824693 L68.0000114,9.64537647 L71.5436291,6.15824693 C71.7584056,5.94689683 72.1056799,5.94730436 72.3199526,6.15915256 L72.8390207,6.67234728 C73.0536598,6.88455773 73.0536598,7.22860445 72.8390207,7.44079226 L68.3886427,11.8408591 C68.1740035,12.053047 67.8260194,12.053047 67.6113802,11.8408591 Z" id="path-1"></path>
+    </defs>
+    <g id="07-Tags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="711-tags-list" transform="translate(-233.000000, -156.000000)">
+            <g id="table" transform="translate(150.000000, 29.000000)">
+                <g id="table-header" transform="translate(20.000000, 121.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="icn-arrow-up" fill="#EB6236" fill-rule="nonzero" transform="translate(68.000000, 9.000000) scale(1, -1) translate(-68.000000, -9.000000) " xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
