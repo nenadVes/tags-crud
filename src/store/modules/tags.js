@@ -49,15 +49,15 @@ const tags = {
     },
     create: async ({ commit }, { tag }) => {
       try {
-        // const response = await TagsApiService.create(tag);
-        commit('ADD_TAG', tag)
+        const tagFromServer = await TagsApiService.create(tag)
+        commit('ADD_TAG', tagFromServer)
       } catch (err) {
         console.warn('[vuex.tags] create', err)
       }
     },
     remove: async ({ commit }, { tag }) => {
       try {
-        // const response = await TagsApiService.remove(tag);
+        await TagsApiService.remove(tag)
         commit('REMOVE_TAG', tag)
       } catch (err) {
         console.warn('[vuex.tags] remove', err)

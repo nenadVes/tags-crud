@@ -25,6 +25,6 @@ export default class BaseApiService {
       data,
       headers: { 'Content-Type': 'application/json' },
       options: { crossDomain: true }
-    }).then(response => response.data)
+    }).then(response => response.data.data)
   }
 }

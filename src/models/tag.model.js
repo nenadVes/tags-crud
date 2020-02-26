@@ -7,7 +7,8 @@ export class TagModel {
   * @param {String} name
   * @param {String} color
   */
-  constructor ({ name = '', color = '' }) {
+  constructor ({ id = '', name = '', color = '' }) {
+    this.id = id
     this.name = name
     this.color = color
   }
